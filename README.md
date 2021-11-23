@@ -1,2 +1,2 @@
 # lotto-level1
-js
+# js
